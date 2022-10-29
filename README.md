@@ -7,7 +7,7 @@ The assignment description can be found [here](https://docs.google.com/document/
 This repository contains starter code:
 - `tracker.py`: Code for questions one to four goes in this file
 
-It also contains visualizer that you will use but should not change:
+It also contains visualizers that you will use but should not change:
 - `descent.py`: The whale visualizer.
 - `sonar.py`: The squid visualizer.
 
